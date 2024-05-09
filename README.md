@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center"> 
+<img src="https://i.pinimg.com/originals/b0/07/f0/b007f0adc278a79dcc7e4807bdf41629.jpg" />
+<p>Hey, Zenky aqui👋</p>
+</h1>
 
-<!--
-**Zenkynho/zenkynho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌About me📌
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 Estou cursando o [alura](https://www.alura.com.br);
+- 🖥️ Estou aprendendo sobre linguagens (CSS, HTML e JavaScript);
+- <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="17" width="17"/> Utilizo o GitHub para minha organização e compartilhamento de projetos desenvolvidos;
+
+## 📍Hobbies📍
+- 
