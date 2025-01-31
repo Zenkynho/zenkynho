@@ -8,7 +8,7 @@
 
 - 📝 Estou cursando o [alura](https://www.alura.com.br);
 - 🖥️ Estou aprendendo sobre linguagens (CSS, HTML e JavaScript);
-- <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="17" width="17"/> Utilizo o GitHub para minha organização e compartilhamento de projetos desenvolvidos;
+- <img src="https://e7.pngegg.com/pngimages/551/770/png-clipart-github-pages-logo-repository-fork-github-mammal-cat-like-mammal.png" height="17" width="17"/> Utilizo o GitHub para minha organização e compartilhamento de projetos desenvolvidos;
 
 ## 📍Hobbies📍
 - 🏀 Praticar esportes;
