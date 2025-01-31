@@ -11,6 +11,5 @@
 - <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="17" width="17"/> Utilizo o GitHub para minha organização e compartilhamento de projetos desenvolvidos;
 
 ## 📍Hobbies📍
-- <img src="https://media.tenor.com/n_oQGmPB_PcAAAAM/zoro-edit-roronoa-zoro.gif" height="17" widht="17"/> Assistir anime;
 - 🏀 Praticar esportes;
-- <img src="https://static.wikia.nocookie.net/robloxcities/images/d/d2/RobloxLogo.png/revision/latest?cb=20230125021936" height="17" widht="17"/> Jogar ROBLOX (ou qualquer jogo);
+- <img src="https://i.imgur.com/ig7F141.png" height="17" widht="17"/> Jogar;
