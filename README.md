@@ -12,4 +12,4 @@
 
 ## 📍Hobbies📍
 - 🏀 Praticar esportes;
-- <img src="https://i.imgur.com/ig7F141.png" height="17" widht="17"/> Jogar;
+- <img src="https://i.imgur.com/ig7F141.png" height="20" widht="20"/> Jogar;
